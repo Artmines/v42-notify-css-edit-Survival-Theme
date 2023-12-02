@@ -4,7 +4,7 @@ Changed to allow backgrounds, sizing and sound effect to fit Zombie Survival the
 
 Showcase Medal: https://medal.tv/games/screen-capture/clips/1GT8aKNxfId_jx/d1337n8G4HoK?invite=cr-MSxPVG0sNDY1NTI5Mjgs
 
-![notify-thumb](https://github.com/v42-Josh/v42-notify/assets/135979159/5b79caa1-19eb-456d-9d2d-bd6869e78ad4)
+![notify-thumb](https://cdn.discordapp.com/attachments/1022431283487449099/1180303669581840414/image.png?ex=657cee73&is=656a7973&hm=5b0c28691701edc00314f6517ec9de3ac5258bab3c38343f406c3c3375f31283&)
 
 
 ### QBCore Manual
