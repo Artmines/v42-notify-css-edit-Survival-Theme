@@ -2,7 +2,7 @@
 
 Changed to allow backgrounds, sizing and sound effect to fit Zombie Survival theme
 
-Showcase YouTube: https://www.youtube.com/watch?v=jLbM1542Xi8
+Showcase YouTube: https://medal.tv/games/screen-capture/clips/1GT8aKNxfId_jx/d1337n8G4HoK?invite=cr-MSxPVG0sNDY1NTI5Mjgs
 
 ![notify-thumb](https://github.com/v42-Josh/v42-notify/assets/135979159/5b79caa1-19eb-456d-9d2d-bd6869e78ad4)
 
