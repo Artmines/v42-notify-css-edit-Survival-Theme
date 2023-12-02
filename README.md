@@ -1,6 +1,6 @@
-# v42-notify [QB/ESX]
+# v42-notify CSS edit for Survival Theme [QB/ESX]
 
-Support Discord: https://discord.com/invite/ackuWrBVV3
+Changed to allow backgrounds, sizing and sound effect to fit Zombie Survival theme
 
 Showcase YouTube: https://www.youtube.com/watch?v=jLbM1542Xi8
 
@@ -102,3 +102,4 @@ Create custom Notifications in the config.lua
     mute = false, - Sound muted set to true
 },
 ```
+**ALL CREDITS TO ORIGINAL V42-Josh**
