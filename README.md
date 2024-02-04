@@ -11,7 +11,7 @@ Showcase Medal: https://medal.tv/games/screen-capture/clips/1GT8aKNxfId_jx/d1337
 
 - Change the following line in qb-core/client/functions.lua default line 88: 
 
-Replace this functions:
+Replace this function:
 ```
 function QBCore.Functions.Notify(text, texttype, length)
     if type(text) == "table" then
